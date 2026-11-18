@@ -32,7 +32,7 @@ const openai = createOpenAI({
 });
 
 // ---- Settings to tune (record every change in docs/tuning-log.md) ----
-const CHUNK_SIZE = 800;
+const CHUNK_SIZE = 500;
 const CHUNK_OVERLAP = 100;
 
 // ---- The corpus ----

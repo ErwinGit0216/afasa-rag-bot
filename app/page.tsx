@@ -26,7 +26,7 @@ type Source = {
 const EXAMPLE_QUESTIONS = [
   'What is a "money mule" under the AFASA?',
   'If I lose money to a scam, does my bank have to refund me?',
-  'How long can a bank hold my funds in a disputed transaction?',
+  'What is a social engineering scheme under the AFASA?',
   'What is the "money lock" feature?',
 ];
 
